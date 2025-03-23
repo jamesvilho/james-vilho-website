@@ -3,12 +3,7 @@ layout: home
 title: Blog
 ---
 
----
-title: "Group Relative Policy Optimization (GRPO) Illustrated Breakdown"
-date: 2025-01-29
-tags: [RL, GNN, resources, code, reinforcement-learning, graph-representation-learning]
-author: Ebrahim
----
+
 
 # Group Relative Policy Optimization (GRPO) Illustrated Breakdown
 
@@ -26,11 +21,6 @@ A simplified intro to GRPO, an efficient policy optimization method used for LLM
 
 ---
 
-title: "Automatic Differentiation (AutoDiff): A Brief Intro with Examples"
-date: 2024-10-10
-tags: [deep-learning, optimization]
-author: Ebrahim
----
 
 # Automatic Differentiation (AutoDiff): A Brief Intro with Examples
 
