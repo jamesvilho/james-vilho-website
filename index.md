@@ -4,7 +4,7 @@ title: About
 ---
 
 # Welcome to My Website  
-I’m an MSc graduate in Industrial Engineering with research in machine learning and optimization.
+I’m a phd student in Information & Communication Engineering with research in autonomous driving, and machine learning and optimization.
 
 ## About Me  
 My research interests include:  
