@@ -1,4 +1,9 @@
 ---
+layout: home
+title: Blog
+---
+
+---
 title: "Group Relative Policy Optimization (GRPO) Illustrated Breakdown"
 date: 2025-01-29
 tags: [RL, GNN, resources, code, reinforcement-learning, graph-representation-learning]
