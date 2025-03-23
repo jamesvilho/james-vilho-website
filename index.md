@@ -8,10 +8,11 @@ I’m an MSc graduate in Industrial Engineering with research in machine learnin
 
 ## About Me  
 My research interests include:  
-- Graph representation learning and deep learning on graphs.  
-- Deep reinforcement learning and sequential decision-making.  
-- Combinatorial optimization and operations research.  
-- Learning to optimize & decision-focused learning.  
+- Intelligent Transportation Systems.  
+- Deep Reinforcement Learning.  
+- Multi-source fusion.
+- Learning to optimize & decision-focused learning.
+- Meta Learning and Multi-task Learning
 
 ## News  
 - 📢 Oct 31, 2023: Started maintaining the Awesome Optimization Repository! Contributions welcome.  
