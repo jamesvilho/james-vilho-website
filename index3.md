@@ -4,10 +4,6 @@ date: 2025-03-24
 author: Vilho James
 ---
 
-# CV
-
-# CV
-
 ## General Information
 
 - **Full Name**: Vilho James Iipinge
@@ -17,41 +13,32 @@ author: Vilho James
 
 ## Education
 
-- **2025 - Present**  
-  MSc in Computer Science, Georgia Institute of Technology  
-  CGPA: 4.0/4.0
+- **2023 - Present**  
+  Doctor of Philosophy in Information & Communication Engineering, Harbin Institute of Technology (Shenzhen Campus), China
+  Supervisor: Dr. Zhang Tingting
+  CGPA: 3.0/4.0
 
-- **2023 - 2024**  
-  MASc in Industrial Engineering, University of Windsor, Windsor, Ontario, Canada  
+- **2021 - 2023**  
+  Master of Engineering in Software Engineering, Nankai University, Tianjin, China  
   Supervisor: Dr. Guoqing Zhang  
-  CGPA: 4.0/4.0
+  CGPA: 3.5/4.0
 
-- **2017 - 2022**  
-  BSc in Industrial Engineering, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran  
-  Thesis: *Algorithmic Trading in Financial Markets Using Deep Reinforcement Learning Methods.*  
-  Supervisor: Dr. Masoud Mahootchi  
-  CGPA: 3.2/4.0
+- **2017 - 2019**  
+  MEd in Information Technology, UPSI, Tanjong Malim, Malaysia  
+  CGPA: 3.75/4.0
 
----
-
-## Experience
-
-- **Jan. 2023 - Dec. 2024**  
-  Graduate Research Assistant, University of Windsor, Windsor, Ontario, Canada
-
-- **Apr. 2021 - Sep. 2021**  
-  Machine Learning Intern, Astyage, Tehran, Iran
-
-- **Jan. 2021 - Apr. 2021**  
-  Data Science Intern, Dayche Data Mining Group, Tehran, Iran
+- **2013 - 2017**  
+  BEd in Information Technology, UPSI, Tanjong Malim, Malaysia  
+  CGPA: 3.63/4.0
 
 ---
+
 
 ## Research Interests
 
-- Graph Representation Learning & Geometric Deep Learning
+- Intelligent transportation systems
 - Deep Reinforcement Learning
-- Mathematical Optimization & Operations Research
+- Multi-source fusion
 - Learning to Optimize & Decision-focused Learning
 - Meta Learning and Multi-task Learning
 
@@ -68,13 +55,4 @@ author: Vilho James
 
 ---
 
-## Certificates & Workshops
 
-- Machine Learning Engineer Nanodegree - Udacity
-- Deep Learning Specialization - Coursera (DeepLearning.ai)
-- Reinforcement Learning Specialization - Coursera (University of Alberta/AMII)
-- Computer Science Fundamentals - Coursera (University of Illinois at Urbana-Champaign)
-- TensorFlow Developer - Coursera (DeepLearning.ai)
-- Machine Learning - Coursera (Stanford Online)
-- Machine Learning Fundamentals - DataCamp
-- Deep Learning - DataCamp
