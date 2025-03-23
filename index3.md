@@ -1,8 +1,9 @@
+
 ---
-title: "Curriculum Vitae"
-date: 2025-03-24
-author: Vilho James
+layout: home
+title: CV
 ---
+
 
 # CV
 
