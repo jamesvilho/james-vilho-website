@@ -4,7 +4,7 @@ title: About
 ---
 
 # Welcome to My Website  
-I’m a phd student in Information & Communication Engineering with research in autonomous driving, and machine learning and optimization.
+I’m a PhD student in Information & Communication Engineering at Harbin Institute of Technology with research in autonomous driving, and machine learning and optimization.
 
 ## About Me  
 My research interests include:  
