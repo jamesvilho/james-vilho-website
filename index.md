@@ -1,6 +1,6 @@
 ---
 layout: home
-title: James Vilho
+title: About
 ---
 
 # Welcome to My Website  
