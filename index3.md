@@ -14,7 +14,7 @@ author: Vilho James
 ## Education
 
 - **2023 - Present**  
-  Doctor of Philosophy in Information & Communication Engineering, Harbin Institute of Technology, Shenzhen, China
+  Doctor of Philosophy in Information & Communication Engineering, Harbin Institute of Technology, Shenzhen, China. 
   Supervisor: Dr. Zhang Tingting
   CGPA: 3.0/4.0
 
