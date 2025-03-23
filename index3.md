@@ -20,7 +20,7 @@ author: Vilho James
 
 - **2021 - 2023**  
   Master of Engineering in Software Engineering, Nankai University, Tianjin, China  
-  Supervisor: Dr. Guoqing Zhang  
+  Supervisor: Dr. Mengting Hu  
   CGPA: 3.5/4.0
 
 - **2017 - 2019**  
@@ -36,7 +36,7 @@ author: Vilho James
 
 ## Research Interests
 
-- Intelligent transportation systems
+- Intelligent Transportation Systems
 - Deep Reinforcement Learning
 - Multi-source fusion
 - Learning to Optimize & Decision-focused Learning
