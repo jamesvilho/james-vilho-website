@@ -1,9 +1,10 @@
-
 ---
-layout: home
-title: CV
+title: "CV"
+date: 2025-03-24
+author: Vilho James
 ---
 
+# CV
 
 # CV
 
